@@ -29,11 +29,11 @@
     font-size: 3vw;
 }
 
-.sidebarHeader__info {
-    /* display: flex;
+/* .sidebarHeader__info {
+    display: flex;
     flex-direction: column;
-    align-items: baseline; */
-}
+    align-items: baseline;
+} */
 
 .sidebarHeader__title {
     color: white;
